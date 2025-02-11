@@ -1,0 +1,43 @@
+input:valid {
+border: 2px solid green;
+}
+    
+input:invalid {
+border: 2px solid red;
+}
+    
+span.erro {
+color: red;
+font-size: 0.9em;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-cadastro{
+    padding: 10px;
+    width: 100%;
+}
+
+.input{
+    border-radius: 50vh;
+    width: 70vw;
+}
+
+@media (min-width: 700px) {  
+
+.form-cadastro{
+    padding: 10px;
+    width: 50%;
+}
+
+.input{
+    border-radius: 50vh;
+    width: 35vw;
+}
+
+}
+

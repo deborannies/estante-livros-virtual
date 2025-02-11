@@ -1,0 +1,117 @@
+body{
+  margin: 0 3% 0 3%;
+}
+
+.icone {
+  font-size: clamp(1.3rem, 2vw, 2.6rem);
+  padding: 1vh;
+}
+
+.icone-redes {
+  font-size: clamp(1rem, 1.3vw, 2.6rem);
+  padding: 0.5vh;
+}
+
+.texto-cinza{
+  color:#757575;
+}
+
+
+.imagem-logo{
+  width: 8vh;
+}
+
+.charm{
+  font-family: 'Charm', sans-serif;
+  font-size: 1.375em;
+}
+
+.caladea{
+  font-family: 'Caladea', sans-serif;
+  font-weight: 700;
+  font-size: 1.5em;
+}
+
+.texturina{
+  font-family: 'Texturina', sans-serif;
+  font-weight: 700;
+}
+
+.crimson-text{
+  font-family: "Crimson Text", serif;
+}
+
+.charis-sil{
+  font-family: "Charis SIL", serif;
+  font-weight: 600;
+}
+
+.headland-one{
+  font-family: "Headland One", serif;
+}
+
+.labrada{
+  font-family: "Labrada", serif;
+}
+
+.aboreto{
+  font-family: "Aboreto", serif;
+}
+
+form{
+  background-color: #FFDED6;
+  border-radius: 22px;
+}
+
+.bg-icones{
+  background-color: #FFDED6;
+  width: 100%;
+  margin: 0;
+  padding: 3vh;
+}
+
+.imagem-booktrack{
+  width: 40vh;
+}
+
+.padding-padrao{
+  padding: 2.5vh;
+}
+
+.padding-5{
+  padding: 2vh;
+}
+
+.border-none{
+  border: none;
+}
+
+.clamp-card{
+  font-size: clamp(1.3rem, 2vw, 2.6rem);
+}
+
+.padding-cadastro{
+  padding: 10% 5% 5% 0;
+}
+
+.fonte-footer{
+  font-size: 1.5vh;
+}
+
+.fonte-slogan{
+  font-size: clamp(1.5rem, 2vw, 2.5rem);
+  padding: 1vh;
+}
+
+/* .card{
+  height: 50vw;
+} */
+
+.botao-card{
+  position: sticky;
+  font-size: clamp(1rem, 1.2vw, 1.5rem);
+}
+
+.decoration-none{
+  text-decoration: none;
+}
